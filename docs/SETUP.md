@@ -31,7 +31,7 @@ Handle the following in your CLI terminal:
 4. Configure API values
     ```bash
     # Duplicate the env.example file to create a new .env file
-    cp env.example .env
+    cp .env.example .env
 
     # Open the .env file and add your API keys
     nano .env
